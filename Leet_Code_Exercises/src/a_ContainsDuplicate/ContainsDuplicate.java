@@ -1,6 +1,6 @@
-package EX1;
+package a_ContainsDuplicate;
 
-public class EX1_ContainsDuplicate {
+public class ContainsDuplicate {
 	public static void main(String[] args) {
 		//int [] nums = {1,2,3,3};
 		//int [] nums = {1,2,3,4};

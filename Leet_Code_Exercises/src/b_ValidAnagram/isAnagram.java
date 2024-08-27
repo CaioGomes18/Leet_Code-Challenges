@@ -1,4 +1,4 @@
-package Ex2.anagram;
+package b_ValidAnagram;
 
 import java.util.Arrays;
 

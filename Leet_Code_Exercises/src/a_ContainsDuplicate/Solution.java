@@ -1,4 +1,4 @@
-package EX1;
+package a_ContainsDuplicate;
 
 import java.util.Arrays;
 

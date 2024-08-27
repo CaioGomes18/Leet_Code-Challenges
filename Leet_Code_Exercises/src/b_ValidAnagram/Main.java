@@ -1,6 +1,6 @@
-package Ex2.anagram;
+package b_ValidAnagram;
 
-public class test {
+public class Main {
 	public static void main(String[] args) {
 		String s = "anagram";
 		String t = "nagaram";
