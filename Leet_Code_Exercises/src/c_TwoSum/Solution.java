@@ -5,7 +5,7 @@ import java.util.*;
 
 public class Solution {
 	public static int[] twoSum(int[] nums, int target) {
-        Map<Integer, Integer> map = new HashMap();
+        Map<Integer, Integer> map = new HashMap<>();
 
         int[] output = new int[2];
 
